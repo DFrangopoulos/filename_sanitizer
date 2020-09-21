@@ -6,7 +6,6 @@ Removes any character that is not [A-Z] or [a-z] or [0-9] or [_] and maintains t
 
 ## Running
 ```bash
-./filename_sanitizer <input>
+make
+./obj/filename_sanitizer <input>
 ```
-## TODO
-- Add makefile
